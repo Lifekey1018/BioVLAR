@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "2ee35a5c3070",
+        "mtime": 1725605703745,
+        "size": 11917159,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.8.1.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "42f661a9fb5b",
+        "mtime": 1725359005130,
+        "size": 55195848,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "84fe3e76e9b7",
+        "mtime": 1725605298655,
+        "size": 1131406,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "f2323a9b7aec",
+        "mtime": 1725615300672,
+        "size": 11691469,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "aab256284dc6",
+        "mtime": 1725605349156,
+        "size": 5328617,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.3.tgz"
+      }
+    },
+    "com.microsoft.mrtk.accessibility": {
+      "tarball": {
+        "hash": "a87620f7cd7b",
+        "mtime": 1725605656037,
+        "size": 23016,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.accessibility-1.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.audio": {
+      "tarball": {
+        "hash": "66d3bfd78baa",
+        "mtime": 1725605648844,
+        "size": 7071,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.audio-3.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.core": {
+      "tarball": {
+        "hash": "8d3eae7b2801",
+        "mtime": 1725605651409,
+        "size": 109323,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.core-3.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.diagnostics": {
+      "tarball": {
+        "hash": "f09d4ccdfa77",
+        "mtime": 1725605648892,
+        "size": 19158,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.diagnostics-3.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.environment": {
+      "tarball": {
+        "hash": "8f5bdb83c414",
+        "mtime": 1725605657975,
+        "size": 15996,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.environment-3.0.0-pre.11.tgz"
+      }
+    },
+    "com.microsoft.mrtk.extendedassets": {
+      "tarball": {
+        "hash": "b1755d0bd87b",
+        "mtime": 1725605808244,
+        "size": 47307076,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.extendedassets-3.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.graphicstools.unity": {
+      "tarball": {
+        "hash": "b8cb5dc7a3c3",
+        "mtime": 1725605686127,
+        "size": 9131872,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.graphicstools.unity-0.4.0.tgz"
+      }
+    },
+    "com.microsoft.mrtk.input": {
+      "tarball": {
+        "hash": "146a0d16a9f3",
+        "mtime": 1725605675310,
+        "size": 2767673,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.input-3.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.spatialmanipulation": {
+      "tarball": {
+        "hash": "a80535c64d68",
+        "mtime": 1725605657022,
+        "size": 139018,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.spatialmanipulation-3.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.standardassets": {
+      "tarball": {
+        "hash": "d5561cda671f",
+        "mtime": 1725605683923,
+        "size": 3800789,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.standardassets-3.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.tools": {
+      "tarball": {
+        "hash": "8d505d413f8f",
+        "mtime": 1725605649971,
+        "size": 10139,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.tools-3.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.tts.windows": {
+      "tarball": {
+        "hash": "4476b6720999",
+        "mtime": 1725605650377,
+        "size": 50801,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.tts.windows-1.0.1.tgz"
+      }
+    },
+    "com.microsoft.mrtk.uxcomponents": {
+      "tarball": {
+        "hash": "025bf4b78dcd",
+        "mtime": 1725605652207,
+        "size": 59240,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.uxcomponents-3.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.uxcomponents.noncanvas": {
+      "tarball": {
+        "hash": "371cf2d4e5ed",
+        "mtime": 1725605660914,
+        "size": 91329,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.uxcomponents.noncanvas-3.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.uxcore": {
+      "tarball": {
+        "hash": "246ca5810751",
+        "mtime": 1725605653348,
+        "size": 78156,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.uxcore-3.0.0-pre.14.tgz"
+      }
+    },
+    "com.microsoft.mrtk.windowsspeech": {
+      "tarball": {
+        "hash": "815291a9a471",
+        "mtime": 1725605655975,
+        "size": 11868,
+        "localPath": "C:\\Users\\kkaji\\BioVLAR\\Packages\\MixedReality\\com.microsoft.mrtk.windowsspeech-3.0.0-pre.14.tgz"
+      }
+    }
+  }
+}
